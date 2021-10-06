@@ -4,7 +4,7 @@ namespace SalesTaxes
 {
     internal class Product : ProductsCart
     {
-        internal Product(string name, Category category, bool isImported, decimal price, int productsCount)
+        public Product(string name, Category category, bool isImported, decimal price, int productsCount)
         {
             Name = name;
             Category = category;
