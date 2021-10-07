@@ -1,10 +1,10 @@
 ﻿namespace SalesTaxes
 {
-    internal enum Category
+    public enum Category
     {
         Book,
         Food,
-        Medical,
+        MedicalProducts,
         Other
     }
 }

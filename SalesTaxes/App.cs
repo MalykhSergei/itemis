@@ -12,7 +12,7 @@ namespace SalesTaxes
             {
                 new Product("imported bottle of perfume", Category.Other, true, 27.99M, 1),
                 new Product("bottle of perfume", Category.Other, false, 18.99M, 1),
-                new Product("packet of headache pills", Category.Medical, false, 9.75M, 1),
+                new Product("packet of headache pills", Category.MedicalProducts, false, 9.75M, 1),
                 new Product("box of imported chocolates", Category.Food, true, 11.25M, 1)
             };
 

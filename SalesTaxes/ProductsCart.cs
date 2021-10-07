@@ -1,6 +1,6 @@
 ﻿namespace SalesTaxes
 {
-    internal abstract class ProductsCart
+    public abstract class ProductsCart
     {
         public string Name { get; set; }
 
